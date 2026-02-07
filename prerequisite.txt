@@ -1,0 +1,5 @@
+**NOTE:**
+1. Before running this program please run the "npm install" command in the terminal of your IDE.
+2. This installs the node_modules folder which includes all the required modules for the react to work properly.
+3. if any errors faced run "npm audit fix --force". This solves most of the issues with react deployment.
+4. Now run the "npm run dev" command in your terminal, This will host the website locally.
